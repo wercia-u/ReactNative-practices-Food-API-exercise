@@ -1,2 +1,6 @@
 # ReactNative-practices
-very begginings of react native learning
+Very begginings of react native learning
+
+To text it run npm install
+If necesarry run also npm i expo
+
